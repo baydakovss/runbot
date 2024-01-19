@@ -315,3 +315,5 @@ Or by providing a plain Dockerfile in the template.
 Once the Dockerfile is created and the `to_build` field is checked, the Dockerfile will be built (pay attention that no other operations will occur during the build).
 
 A version or a bundle can be assigned a specific Dockerfile.
+
+
